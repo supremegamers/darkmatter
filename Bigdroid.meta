@@ -8,7 +8,7 @@ AUTHORS=(
 	"Night"
 	"rk"
 ) # In alphabetic order
-VERSION="Exo_4.8"
+VERSION="Exo4.8"
 IMAGE="https://github.com/supremegamers/darkmatter/releases/download/v3.6.0.562/stock_phoenixos_v3.6.0.562.iso"
 IMAGE_CHECKSUM=""
 HOOKS=(

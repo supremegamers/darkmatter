@@ -1,3 +1,3 @@
 # TODO
 
-Manifest for darkmatter specific hooks.
+Bigdroid project of PhoenixOS DarkMatter
