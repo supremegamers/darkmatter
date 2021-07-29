@@ -12,15 +12,15 @@ VERSION="Exo4.8"
 IMAGE="https://github.com/supremegamers/darkmatter/releases/download/v3.6.0.562/stock_phoenixos_v3.6.0.562.iso"
 IMAGE_CHECKSUM=""
 HOOKS=(
-	wipe_ghome::main::0.1.0
-	custom_ghome::main::0.1.0
-	purge_gapps::main::0.1.0
-	add_remove_files::main::0.1.0
-	default_lang_locale::main::0.1.0
-	early_bootanim::main::0.1.0
-	gearlock::main::0.1.0
+	wipe_ghome::darkmatter::0.1.0
+	custom_ghome::darkmatter::0.1.0
+	purge_gapps::darkmatter::0.1.0
+	add_remove_files::darkmatter::0.1.0
+	default_lang_locale::darkmatter::0.1.0
+	early_bootanim::darkmatter::0.1.0
+	gearlock::darkmatter::0.1.0
 	overlord_screen::0.1.0
-	betterinitrd::main::0.1.0
+	betterinitrd::darkmatter::0.1.0
 )
 HOMEPAGE="https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2"
 REPOSITORY="https://github.com/supremegamers/darkmatter"
