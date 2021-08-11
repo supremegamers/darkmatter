@@ -11,7 +11,7 @@ AUTHORS=(
 VERSION="4.8"
 IMAGE="https://github.com/supremegamers/darkmatter/releases/download/v3.6.0.562/stock_phoenixos_v3.6.0.562.iso::0849642de1a7346b94455d8522ce3995cd5f96950ead71a26a89969b26fc76a9"
 HOOKS=(
-	purge_gapps::darkmatter
+	purge_gapps::main
 	overlord_screen::darkmatter
 	custom_ghome::darkmatter
 	add_remove_files::darkmatter
