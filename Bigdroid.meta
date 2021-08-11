@@ -16,7 +16,7 @@ HOOKS=(
 	custom_ghome::darkmatter
 	add_remove_files::darkmatter
 	default_lang_locale::darkmatter
-	early_bootanim::darkmatter
+	early_bootanim::main
 	gearlock::main
 # 	betterinitrd::darkmatter::0.1.0
 )
