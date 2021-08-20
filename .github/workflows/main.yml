@@ -12,6 +12,8 @@ jobs:
     name: Building Bigdroid project
     steps:
       - uses: actions/checkout@v2
+      
       - id: bigdroid-build
         uses: bigdroid/action-build@HEAD
-        
+		    env:
+            API_TOKEN_GITHUB: ${{ secrets.GITHUB_TOKEN }}
