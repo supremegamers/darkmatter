@@ -2,9 +2,9 @@ name: Build Bigdroid Project
 
 on:
   push:
-    tags:
-      - '*'
-  workflow_dispatch:
+#     tags:
+#       - '*'
+#   workflow_dispatch:
 
 jobs:
   publish_release:
