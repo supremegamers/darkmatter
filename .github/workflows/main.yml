@@ -15,5 +15,5 @@ jobs:
       
       - id: bigdroid-build
         uses: bigdroid/action-build@HEAD
-		    env:
+        env:
             API_TOKEN_GITHUB: ${{ secrets.GITHUB_TOKEN }}
