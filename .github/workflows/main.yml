@@ -15,6 +15,6 @@ jobs:
       
       - id: bigdroid-build
 #         uses: lhotari/action-upterm@v1
-        uses: bigdroid/action-build@HEAD
+        uses: bigdroid/action-build@2c6c2197a1ab05cd5fca3f2fb7e710ea7a005de2
         env:
             API_TOKEN_GITHUB: ${{ secrets.GITHUB_TOKEN }}
