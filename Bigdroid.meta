@@ -14,7 +14,7 @@ HOOKS=(
 	purge_gapps::main::14a0cc7
 	add_remove_files::darkmatter::59c75a2
 	biginit::main::01475cb
-	custom_ghome:::darkmatter::d5107d2
+	custom_ghome::darkmatter::d5107d2
 	default_lang_locale::darkmatter::86001d8
 	early_bootanim::main::39b1e73
 	gearlock::main::f096b17
