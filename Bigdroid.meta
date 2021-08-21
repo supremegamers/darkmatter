@@ -11,7 +11,7 @@ AUTHORS=(
 VERSION="4.8"
 IMAGE="/media/axon/DataBase/Operating-Systems/Linux/Android-x86/PhoenixOS/PhoenixOSInstaller_v3.6.0.562_x64.exe::0849642de1a7346b94455d8522ce3995cd5f96950ead71a26a89969b26fc76a9"
 HOOKS=(
-	purge_gapps::main::6d3c6d0
+	purge_gapps::main::14a0cc7
 	add_remove_files::darkmatter::59c75a2
 	biginit::main::01475cb
 	custom_ghome:::darkmatter:d5107d2
