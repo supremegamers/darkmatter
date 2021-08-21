@@ -17,4 +17,4 @@ jobs:
 #         uses: lhotari/action-upterm@v1
         uses: bigdroid/action-build@HEAD
         env:
-            API_TOKEN_GITHUB: ${{ secrets.GITHUB_TOKEN }}
+            API_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
