@@ -9,14 +9,14 @@ AUTHORS=(
 	"rk"
 ) # In alphabetic order
 VERSION="4.8"
-IMAGE="https://github.com/supremegamers/darkmatter/releases/download/v3.6.0.562/stock_phoenixos_v3.6.0.562.iso::0849642de1a7346b94455d8522ce3995cd5f96950ead71a26a89969b26fc76a9"
+IMAGE="https://github.com/supremegamers/darkmatter/releases/download/v3.6.0.562/stock_phoenixos_v3.6.0.562.7z::0849642de1a7346b94455d8522ce3995cd5f96950ead71a26a89969b26fc76a9"
 HOOKS=(
 	purge_gapps::main::1645325
-	add_remove_files::darkmatter::59c75a2
+	add_remove_files::darkmatter::40dd0bf
 	biginit::main::01475cb
-	custom_ghome::darkmatter::d5107d2
-	default_lang_locale::darkmatter::86001d8
-	early_bootanim::main::39b1e73
+	custom_ghome::darkmatter::eeb03a9
+	default_lang_locale::darkmatter::7897ad2
+	early_bootanim::main::635867c
 	gearlock::main::f096b17
 # 	rusty_magisk::main::5f4247f
 )
